@@ -1,0 +1,6 @@
+graph s{
+root -- r1;
+root -- r1;
+r1 -- c1;
+root -- r1;
+r1 -- c3;
